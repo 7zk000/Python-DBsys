@@ -1,0 +1,7 @@
+2024-04-18 11:34:25,135:INFO:save log....
+2024-04-18 11:34:25,700:INFO:save log....
+2024-04-18 11:34:25,741:DEBUG:Starting new HTTPS connection (1): www.googleapis.com:443
+2024-04-18 11:34:26,643:DEBUG:https://www.googleapis.com:443 "GET /books/v1/volumes?q=subject:fiction&orderBy=relevance&maxResults=40&key=AIzaSyCb_7HTR4J8Jpvu-QyWIbUtnWwHiyPW2cE HTTP/1.1" 200 None
+2024-04-18 11:34:26,763:DEBUG:Making request: POST https://oauth2.googleapis.com/token
+2024-04-18 11:34:26,764:DEBUG:Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-04-18 11:34:27,177:DEBUG:https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
